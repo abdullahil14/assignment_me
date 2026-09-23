@@ -44,3 +44,9 @@ while (J < nbunnies.length) {
     }
     J++;
     }
+
+
+    const tech = "coding";
+    console.log(tech + " is not for the weak");
+    //output: coding is not for the weak
+    
